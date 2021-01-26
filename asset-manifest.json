@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/changer-pour-chromebook/static/css/main.634f1c4b.chunk.css",
+    "main.js": "/changer-pour-chromebook/static/js/main.578bf9ab.chunk.js",
+    "main.js.map": "/changer-pour-chromebook/static/js/main.578bf9ab.chunk.js.map",
+    "runtime-main.js": "/changer-pour-chromebook/static/js/runtime-main.e225f2c5.js",
+    "runtime-main.js.map": "/changer-pour-chromebook/static/js/runtime-main.e225f2c5.js.map",
+    "static/js/2.248ec178.chunk.js": "/changer-pour-chromebook/static/js/2.248ec178.chunk.js",
+    "static/js/2.248ec178.chunk.js.map": "/changer-pour-chromebook/static/js/2.248ec178.chunk.js.map",
+    "static/js/3.6a1e1bc0.chunk.js": "/changer-pour-chromebook/static/js/3.6a1e1bc0.chunk.js",
+    "static/js/3.6a1e1bc0.chunk.js.map": "/changer-pour-chromebook/static/js/3.6a1e1bc0.chunk.js.map",
+    "index.html": "/changer-pour-chromebook/index.html",
+    "static/css/main.634f1c4b.chunk.css.map": "/changer-pour-chromebook/static/css/main.634f1c4b.chunk.css.map",
+    "static/js/2.248ec178.chunk.js.LICENSE.txt": "/changer-pour-chromebook/static/js/2.248ec178.chunk.js.LICENSE.txt",
+    "static/media/main-logo.f9f96032.png": "/changer-pour-chromebook/static/media/main-logo.f9f96032.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e225f2c5.js",
+    "static/js/2.248ec178.chunk.js",
+    "static/css/main.634f1c4b.chunk.css",
+    "static/js/main.578bf9ab.chunk.js"
+  ]
+}
